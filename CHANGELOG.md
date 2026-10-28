@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.125.2](https://github.com/promptfoo/promptfoo/compare/0.125.1...0.125.2) (2026-10-28)
+
+
+### Bug Fixes
+
+* **deps:** update anthropic packages ([#11991](https://github.com/promptfoo/promptfoo/issues/11991)) ([204cf8f](https://github.com/promptfoo/promptfoo/commit/204cf8f2fa5cd92661b041a32a39276e7a83a7d3))
+* **deps:** update dependency js-yaml to v5.5.0 ([#11994](https://github.com/promptfoo/promptfoo/issues/11994)) ([9a212e7](https://github.com/promptfoo/promptfoo/commit/9a212e71207ab25ddfab1c4dafead8dfd71b458c))
+* **deps:** update direct MSAL dependency to 7.1.0 ([#11970](https://github.com/promptfoo/promptfoo/issues/11970)) ([b4c2404](https://github.com/promptfoo/promptfoo/commit/b4c2404a0dee93dcd4d53a323d6f32f87ee27558))
+* **deps:** update gcp-metadata to v9.2.1 ([#11985](https://github.com/promptfoo/promptfoo/issues/11985)) ([111a782](https://github.com/promptfoo/promptfoo/commit/111a7829be4cd8ca2437db654d1804a68c6566da))
+* **deps:** update google-auth-library to v11.3.1 ([#11990](https://github.com/promptfoo/promptfoo/issues/11990)) ([bfe9709](https://github.com/promptfoo/promptfoo/commit/bfe97095b6d9eabd424021f004b13038068881d3))
+* **examples:** support Google ADK telemetry v2 ([#11956](https://github.com/promptfoo/promptfoo/issues/11956)) ([22df9a5](https://github.com/promptfoo/promptfoo/commit/22df9a560d4185c7584ed9302dc4f3b4ccacf5dd))
+* **redteam:** upgrade the CloudSwag example to Anthropic v2 ([#11913](https://github.com/promptfoo/promptfoo/issues/11913)) ([6a5ee15](https://github.com/promptfoo/promptfoo/commit/6a5ee150ce2b1d5c44e88b5038a68f0300f04ece))
+
 ## [0.125.1](https://github.com/promptfoo/promptfoo/compare/0.125.0...0.125.1) (2026-10-25)
 
 ### Bug Fixes
